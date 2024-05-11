@@ -4,4 +4,4 @@
 
 ### A list of available content:
 
-* Task 8.1 - "Guess the number"   (https://github.com/Alex-Shev75/SkillFactory/tree/main/Task_8.1_(binary_search))
+* Task 8.1 - Game "Guess the number"   (https://github.com/Alex-Shev75/SkillFactory/tree/main/Task_8.1_(binary_search))
